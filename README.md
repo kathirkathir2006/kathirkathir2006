@@ -25,8 +25,8 @@ I’m currently preparing and uploading:
 ---
 
 ### 📜 Certifications
-- AWS Academy Cloud Architecting (2023)  
-- AWS Cloud Foundation (2023)  
+- AWS Academy Cloud Architecting (2025)  
+- AWS Academy Cloud Foundation (2025)  
 - IBM Certified: Architectural Thinking for Security  
 - Oracle Certified Associate (Java SE 8)  
 - MS SQL & HTML5 Certified  
